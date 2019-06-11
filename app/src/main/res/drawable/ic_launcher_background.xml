@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project andriod:version="4">
+    <project andriod:version="4">
+        <component android:name="AndroidLayouts">
+            <shared>
+                <config>
+                    <device android:name.id="pixel_2"/>
+                </config>
+            </shared>
+        </component>
+        <component android:name="AndroidLogFilters">
+            <option android:name="TOOL_WINDOW_CONFIGURED_FILTER" android:name.value="Show only selected application"/>
+
+            <component android:name="AvailableLibraryUpdateStorage">
+                <library-updates>
+                    <library-update>
+                        <group-id>org.jetbrains.kotlin</group-id>
+                        <name>kotlin-stdlib-jdk7</name>
+                        <version>1.3.31</version>
+                        <repository>JCenter</repository>
+                    </library-update>
+                    <library-update>
+                        <group-id>com.android.support</group-id>
+                        <name>appcompat-v7</name>
+                        <version>28.0.0</version>
+                        <repository>Google,Android Repository</repository>
+                    </library-update>
+                    <library-update>
+                        <group-id>com.android.support.constraint</group-id>
+                        <name>constraint-layout</name>
+                        <version>2.0.0-beta1</version>
+                        <repository>Google</repository>
+                    </library-update>
+                    <library-update>
+                        <group-id>junit</group-id>
+                        <name>junit</name>
+                        <version>4.13-beta-3</version>
+                        <repository>JCenter</repository>
+                    </library-update>
+                    <library-update>
+                        <group-id>com.android.support.test</group-id>
+                        <name>runner</name>
+                        <version>1.0.2</version>
+                        <repository>Google,Android Repository</repository>
+                    </library-update>
+                    <library-update>
+                        <group-id>com.android.support.test.espresso</group-id>
+                        <name>espresso-core</name>
+                        <version>3.0.2</version>
+                        <repository>Google,Android Repository</repository>
+                    </library-update>
+                </library-updates>
+                <last-search-timestamp>1558607533894</last-search-timestamp>
+            </component>
+            <component android:name="ChangeListManager">
+                <list android:default="true" android:id="63aa0d61-d195-46f5-86e9-e981fc751300" android:name="Default Changelist" android:comment="">
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Adapter/CategoryAdapter.kt"
+                            android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Adapter/ProductAdapter.kt"
+                            android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Adapter/categoryRecycleAdapter.kt"
+                            android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Controller/ProductActivity.kt"
+                            android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Model/Category.kt"
+                            android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Model/Product.kt" android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Service/DataService.kt"
+                            android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/res/layout/category_list_item.xml" android:afterDir="false"/>
+                    <change android:afterPath="$PROJECT_DIR$/app/src/main/res/layout/product_list_item.xml" android:fterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/.idea/misc.xml" android:beforeDir="false" android:afterPath="$PROJECT_DIR$/.idea/misc.xml"
+                            android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/build.gradle" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/build.gradle" android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/MainActivity.kt" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/src/main/java/com/example/codeswag/Controller/MainActivity.kt"
+                            android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" android:afterDir="false"/>
+                    <change android:beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" android:beforeDir="false"
+                            android:afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" android:afterDir="false"/>
+                </list>
+                <option android:name="EXCLUDED_CONVERTED_TO_IGNORED" android:value="true"/>
+                <option android:name="SHOW_DIALOG" android:value="false"/>
+                <option android:name="HIGHLIGHT_CONFLICTS" android:value="true"/>
+                <option android:name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" android:value="false"/>
+                <option android:name="LAST_RESOLUTION" android:value="IGNORE"/>
+            </component>
+        </component>
+    </project>

@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\7b874fd4237eb1d2282faa361ef00b50\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\4605d7fb52ce2952c1b4b5ed9149ec5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\fa3c8b17d22d3722e464fec4f264b0fd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\e7b026f6e6ac1a0d7a5b08a0571947af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\3d06752c2f56f7133f581fe782767cbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\20da5790bad7401c0486bddfa8cf71b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\9450d0c4e755dbe8880e203c56028767\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\a1c1988e9ecdfa9cbeedff983f189e46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\4884fd097c98f7b9851816523f1eedfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\a82e3e3ee860b906f333e337cefe4bd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\043573b30138eb43d2a75235b715c8b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\b1ab836228c3a616d83d13128633d3f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\77c1573d89951efff9e5cc8ee0e5e505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\3d49893f244fdb014b8895288676428d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\03cd809b945d9e56140c47552032aba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\c5c2603469360e9a124f6cea16c81952\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\1ef5728226ab068701ae29b00ab67275\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\867580e3ebaf052d8d98b448f1a8d4a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\725233364171ef9260b3075bc3ad398c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\6ee1ed783eb15c06a0b5c29b1dcaae34\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\614b03d64ef03eb5c5cd6e5c993bd646\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\12bf2564aa7f08a7a5c85b72c2b4b133\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\738701e0f41be244ade96b8687402171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\24265bd69a50f59c2875f726626e7694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\52cd8783c9bbf344837ef1878e26c344\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\77b4d3d2c289ada2a539c2120b4eec8e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\2dafe5a28b4f979babbe32dd4908038d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\5eee8c46aca94a64c027e85ee8f955b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\379549c8d3d1bf125ab3f004cb59093e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\eb5faa8099de80f2672cbb7bc203be21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\8c075ee8c8af8e760fa0e92c8bba01e9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\7b874fd4237eb1d2282faa361ef00b50\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\7b874fd4237eb1d2282faa361ef00b50\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\fa3c8b17d22d3722e464fec4f264b0fd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\fa3c8b17d22d3722e464fec4f264b0fd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\725233364171ef9260b3075bc3ad398c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\725233364171ef9260b3075bc3ad398c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\6ee1ed783eb15c06a0b5c29b1dcaae34\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\6ee1ed783eb15c06a0b5c29b1dcaae34\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\725233364171ef9260b3075bc3ad398c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:9:13-39
+	android:label
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:8:13-45
+	android:icon
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:10:13-44
+activity#com.example.smackchart.MainActivity
+ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:13:17-49
+	android:theme
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:14:17-60
+	android:name
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:12:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\7b874fd4237eb1d2282faa361ef00b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\7b874fd4237eb1d2282faa361ef00b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\4605d7fb52ce2952c1b4b5ed9149ec5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\4605d7fb52ce2952c1b4b5ed9149ec5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\fa3c8b17d22d3722e464fec4f264b0fd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\fa3c8b17d22d3722e464fec4f264b0fd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\e7b026f6e6ac1a0d7a5b08a0571947af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\e7b026f6e6ac1a0d7a5b08a0571947af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\3d06752c2f56f7133f581fe782767cbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\3d06752c2f56f7133f581fe782767cbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\20da5790bad7401c0486bddfa8cf71b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\20da5790bad7401c0486bddfa8cf71b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\9450d0c4e755dbe8880e203c56028767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\9450d0c4e755dbe8880e203c56028767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\a1c1988e9ecdfa9cbeedff983f189e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\a1c1988e9ecdfa9cbeedff983f189e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\4884fd097c98f7b9851816523f1eedfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\4884fd097c98f7b9851816523f1eedfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\a82e3e3ee860b906f333e337cefe4bd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\a82e3e3ee860b906f333e337cefe4bd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\043573b30138eb43d2a75235b715c8b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\043573b30138eb43d2a75235b715c8b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\b1ab836228c3a616d83d13128633d3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\b1ab836228c3a616d83d13128633d3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\77c1573d89951efff9e5cc8ee0e5e505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\77c1573d89951efff9e5cc8ee0e5e505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\3d49893f244fdb014b8895288676428d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\3d49893f244fdb014b8895288676428d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\03cd809b945d9e56140c47552032aba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\03cd809b945d9e56140c47552032aba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\c5c2603469360e9a124f6cea16c81952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\c5c2603469360e9a124f6cea16c81952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\1ef5728226ab068701ae29b00ab67275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\1ef5728226ab068701ae29b00ab67275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\867580e3ebaf052d8d98b448f1a8d4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\867580e3ebaf052d8d98b448f1a8d4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\725233364171ef9260b3075bc3ad398c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\725233364171ef9260b3075bc3ad398c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\6ee1ed783eb15c06a0b5c29b1dcaae34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\6ee1ed783eb15c06a0b5c29b1dcaae34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\614b03d64ef03eb5c5cd6e5c993bd646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\614b03d64ef03eb5c5cd6e5c993bd646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\12bf2564aa7f08a7a5c85b72c2b4b133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\12bf2564aa7f08a7a5c85b72c2b4b133\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\738701e0f41be244ade96b8687402171\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\738701e0f41be244ade96b8687402171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\24265bd69a50f59c2875f726626e7694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\24265bd69a50f59c2875f726626e7694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\52cd8783c9bbf344837ef1878e26c344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\52cd8783c9bbf344837ef1878e26c344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\77b4d3d2c289ada2a539c2120b4eec8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\77b4d3d2c289ada2a539c2120b4eec8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\2dafe5a28b4f979babbe32dd4908038d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\2dafe5a28b4f979babbe32dd4908038d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\5eee8c46aca94a64c027e85ee8f955b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\5eee8c46aca94a64c027e85ee8f955b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\379549c8d3d1bf125ab3f004cb59093e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\379549c8d3d1bf125ab3f004cb59093e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\eb5faa8099de80f2672cbb7bc203be21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\eb5faa8099de80f2672cbb7bc203be21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\8c075ee8c8af8e760fa0e92c8bba01e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jude\.gradle\caches\transforms-2\files-2.1\8c075ee8c8af8e760fa0e92c8bba01e9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jude\Desktop\SmackChart\app\src\main\AndroidManifest.xml
