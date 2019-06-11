@@ -13,27 +13,44 @@
             android:layout_height="wrap_content"
             android:paddingTop="@dimen/nav_header_vertical_spacing"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1" android:baselineAligned="false"
-            android:id="@+id/textView2"
-            app:layout_constraintTop_toTopOf="@+id/imageView" app:layout_constraintStart_toEndOf="@+id/imageView"
+            android:id="@+id/userNameHeader"
+            app:layout_constraintTop_toTopOf="@+id/userNavHeader" app:layout_constraintStart_toEndOf="@+id/userNavHeader"
             android:layout_marginStart="16dp" android:layout_marginLeft="16dp" tools:text="Jude Akpofure"/>
     <ImageView
-            android:layout_width="51dp"
-            android:layout_height="62dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
             android:paddingTop="@dimen/nav_header_vertical_spacing"
             android:contentDescription="@string/nav_header_desc"
-            android:id="@+id/imageView"
+            android:id="@+id/userNavHeader"
             tools:srcCompat="@drawable/profiledefault" app:srcCompat="@drawable/profiledefault"
-            android:layout_marginStart="8dp"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="8dp"
-            android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"/>
+            android:layout_marginStart="16dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="16dp"
+            android:layout_marginBottom="8dp" app:layout_constraintBottom_toTopOf="@+id/loginBtnNavHeader"/>
 
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView"
-            app:layout_constraintStart_toEndOf="@+id/imageView"
+            android:id="@+id/userEmailHeader"
+            app:layout_constraintStart_toEndOf="@+id/userNavHeader"
             android:layout_marginLeft="16dp" android:layout_marginStart="16dp"
-            app:layout_constraintTop_toBottomOf="@+id/textView2" android:layout_marginBottom="8dp"
-            app:layout_constraintBottom_toBottomOf="parent" tools:text="ejiro.akpofure@datalinks.com"/>
+            android:layout_marginBottom="48dp"
+            app:layout_constraintBottom_toBottomOf="parent" tools:text="ejiro.akpofure@datalinks.com"
+            app:layout_constraintTop_toBottomOf="@+id/userNameHeader" app:layout_constraintVertical_bias="0.0"/>
+    <Button
+            android:text="LOGIN"
+            android:layout_width="86dp"
+            android:layout_height="32dp"
+            android:id="@+id/loginBtnNavHeader"
+            android:background="@android:color/transparent" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="8dp" android:layout_marginStart="8dp" android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:onClick="loginBtnNavClicked"/>
+    <ImageButton
+            android:layout_width="30dp"
+            android:layout_height="30dp" app:srcCompat="@drawable/addchannelbutton"
+            android:id="@+id/addChannelBtn"
+            android:background="@android:color/transparent" android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginEnd="8dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginRight="8dp"
+            android:onClick="addChannelClicked"/>
 
 </android.support.constraint.ConstraintLayout>
